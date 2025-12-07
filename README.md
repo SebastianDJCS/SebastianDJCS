@@ -1,4 +1,5 @@
 # 👋 ¡Hola! Soy Sebastian De Jesus Calvo Serrano
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=20&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+%26+Dart;AI%2FML+with+Python;Building+Scalable+Systems;Sebastian+DJCS)](https://github.com/SebastianDJCS)
 
 #💻 Desarrollador con una base sólida en **Ingeniería de Software Versátil**.
 
