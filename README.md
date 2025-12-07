@@ -5,7 +5,7 @@
 Me especializo en la creación de soluciones eficientes y escalables utilizando **Python** y **Dart/Flutter**. Me apasiona el diseño de sistemas y la mejora continua del código.
 
 * Actualmente estoy enfocado en profundizar mis conocimientos en **Modelos de Aprendizaje Automático (Machine Learning)** y **Testing Unitario**, Ademas del manejo de **Aplicaciones moviles nativas**.
-*Busco activamente proyectos de colaboración en Aplicaciones Full Stack impulsadas por **IA** (utilizando Node.js y React para el frontend) y **Sistemas Back-end escalables** Ademas **Desarrollo movil**.
+* Busco activamente proyectos de colaboración en Aplicaciones Full Stack impulsadas por **IA** (utilizando Node.js y React para el frontend) y **Sistemas Back-end escalables** Ademas **Desarrollo movil**.
 
 ---
 
